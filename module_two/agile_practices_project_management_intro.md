@@ -1,3 +1,12 @@
+Reflection on Agile Practices/Project Management
+
+It was a pleasure to learn about and practice agile proccesses this module. I've read/studied about agile practices before but it was cool to actually enact it during our projects this mod. Having a project manager during large group projects was a nice addition. In both my projects we put it on the PM to oversee the waffle board. Using a waffle board was a great way to organize our project tasks. We did a good job of revisiting the waffle board after each work day or iteration to make sure we we're keeping up and staying on track. For next mod, I would like to have more frequent stand ups. This will help make sure everyone is on the same page and is aware of the changes/features implemented by the whole group in previous days.
+
+
+
+
+
+
 ---
 title: Agile Project Management
 layout: page
