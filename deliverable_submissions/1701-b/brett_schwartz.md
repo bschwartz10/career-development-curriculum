@@ -2,10 +2,12 @@
 
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+What are you doing well as a pair programmer and collaborator? A common theme of feedback from my partners is consistently working hard and being a good collaborator. Adjectives that back up this statement in my 'Arena' are available, collaborative, driven and hardworking.
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+How do you use your strengths as a team member? I use my strengths to create an inclusive team environment where everyone feels comfortable working. I also try to assist anyone who asks for help and be aware of what everyone is working on so I can chip in if need be. 
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+How would you like to continue to develop your strengths? I think my overall attitude is correlational of how well I am performing technically on the project. As a continue to improve my technical skiils I expect my attitude to continute to get better. What would you like to improve on as a teammate? I would like to spearhead certain iterations of a project. I feel like I have been contributing on previous project but not leading the group. I would like to get to the level of leading a group at some point during Turing. 
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+How would you like your teammates to see you? 
+
+I am happy with the results of my Johari window. My interpretation is my teammates see my as a dependable hard working but also kind/patient at the same time. Any other comments:
