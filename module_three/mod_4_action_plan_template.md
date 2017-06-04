@@ -20,10 +20,10 @@ In this section, break down your longterm goal into smaller goals that you want 
   Linkedin, reach out to network and ask about the companies they work for. Local publications. Track relationships on Trello board.
 #### Cold Outreach/Network:
 *Who will you reach out to? Have you considered talking with alumni about their own networking practices when they started their job search?
-  Alumni living in NYC area
-  Mentor
-  Friends
-  Previous collegues
+  >Alumni living in NYC area
+  >Mentor
+  >Friends
+  >Previous collegues
   
 #### Personal Branding *(A personal branding section is optional)*:
 *How might personal branding pieces help you towards your goal?*
