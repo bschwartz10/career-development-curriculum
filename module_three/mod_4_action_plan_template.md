@@ -30,6 +30,6 @@ In this section, break down your longterm goal into smaller goals that you want 
 *What will you do throughout each week?*
   >Reach out to 1-2 alumni, company a week. Read Pootr/Exercisms on sat/sundays.
 ## What I Will Work on with Meg
-  >Cold outreach strategies. Ask for advice on companies/people to reach out to in NY
+  >Cold outreach strategies. Ask for advice on companies/people to reach out to in NY.
 *What advice do you need? What would be helpful to talk through? Let Meg know here!*
 
